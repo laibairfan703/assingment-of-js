@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(252, 252, 121);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    padding: 10px 16px;
+    margin: 35px;
+    background-image: radial-gradient(circle, rgb(255, 255, 54),rgb(248, 59, 147),  rgba(131, 134, 131, 0.854));
+}
